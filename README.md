@@ -7,4 +7,5 @@ flutter example collection
 4. flutter_xylophone 七色鋼琴
 5. flutter_quizzler 問答遊戲
 6. flutter_destini 命運遊戲
-7. flutter_bmi bmi計算機
+7. flutter_bmi bmi 計算機
+8. flutter_clima 天氣app
